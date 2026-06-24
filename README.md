@@ -142,6 +142,7 @@ me.say_hi()
 - 💬 Ask me about **Python, AI Ethics, Quranic Arabic**
 - ⚡ Fun fact: **I debug code and my nafs at the same time**
 - 📖 Favorite Ayah: **"Verily, in the remembrance of Allah do hearts find rest" [13:28]**
+- 📩 https://www.linkedin.com/in/calestial-mind-54633b410/
 
 ---
 
